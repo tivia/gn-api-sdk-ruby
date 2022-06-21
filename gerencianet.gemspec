@@ -33,5 +33,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rubocop", "~> 0.49.1", ">= 0.49.1"
   spec.add_development_dependency "listen", "~> 3.0.4", ">= 3.0.4"
 
-  spec.add_runtime_dependency "http", "~> 0.9", ">= 0.9.8"
+  spec.add_runtime_dependency "http"
 end
